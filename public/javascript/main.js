@@ -1,4 +1,4 @@
-// Initial code by Borui Wang, updated by Graham Roth
+// Initial code by Borui Wang, updated by Graham Roth, updated by Chiara Hordatt Brosco
 // For CS247, Spring 2014
 
 (function() {
